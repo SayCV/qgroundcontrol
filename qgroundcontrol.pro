@@ -610,7 +610,7 @@ win32:exists(src/lib/opalrt/OpalApi.h):exists(C:/OPAL-RT/RT-LAB7.2.4/Common/bin)
     DEFINES += OPAL_RT
 }
 TRANSLATIONS += es-MX.ts \
-    en-US.ts
+    en-US.ts qt_zh_CN.ts qt_zh_TW.ts
 
 # xbee support
 # libxbee only supported by linux and windows systems
