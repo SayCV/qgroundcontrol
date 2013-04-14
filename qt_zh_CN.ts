@@ -180,12 +180,12 @@
     <message>
         <location filename="src/ui/CommConfigurationWindow.cc" line="312"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
     <message>
         <location filename="src/ui/CommConfigurationWindow.cc" line="315"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
 </context>
 <context>
@@ -193,7 +193,7 @@
     <message>
         <location filename="src/ui/RadioCalibration/CurveCalibrator.cc" line="12"/>
         <source>Pulse Width (us)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">脉冲宽度(us)</translation>
     </message>
     <message>
         <location filename="src/ui/RadioCalibration/CurveCalibrator.cc" line="50"/>
@@ -425,7 +425,7 @@
     <message>
         <location filename="src/ui/DebugConsole.cc" line="785"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <location filename="src/ui/DebugConsole.cc" line="786"/>
@@ -956,7 +956,7 @@
     <message>
         <location filename="src/ui/JoystickWidget.cc" line="28"/>
         <source>Joystick Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">手柄设置</translation>
     </message>
     <message>
         <location filename="src/ui/JoystickWidget.cc" line="29"/>
@@ -2013,7 +2013,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/OpalLinkSettings.ui" line="137"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <location filename="src/ui/OpalLinkSettings.ui" line="140"/>
@@ -2194,32 +2194,32 @@ Abort.&lt;/font&gt;</source>
 <context>
     <name>QGCCore</name>
     <message>
-        <location filename="src/QGCCore.cc" line="116"/>
+        <location filename="src/QGCCore.cc" line="121"/>
         <source>Loading application fonts</source>
         <translation type="unfinished">加载应用程序字体</translation>
     </message>
     <message>
-        <location filename="src/QGCCore.cc" line="132"/>
+        <location filename="src/QGCCore.cc" line="137"/>
         <source>Starting Communication Links</source>
         <translation type="unfinished">开始通信连接</translation>
     </message>
     <message>
-        <location filename="src/QGCCore.cc" line="136"/>
+        <location filename="src/QGCCore.cc" line="141"/>
         <source>Starting UAS Manager</source>
         <translation type="unfinished">启动无人机系统管理器</translation>
     </message>
     <message>
-        <location filename="src/QGCCore.cc" line="140"/>
+        <location filename="src/QGCCore.cc" line="145"/>
         <source>Starting User Interface</source>
         <translation type="unfinished">启动用户界面</translation>
     </message>
     <message>
-        <location filename="src/QGCCore.cc" line="165"/>
+        <location filename="src/QGCCore.cc" line="170"/>
         <source>Default Settings Loaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="src/QGCCore.cc" line="165"/>
+        <location filename="src/QGCCore.cc" line="170"/>
         <source>QGroundControl has been upgraded from version %1 to version %2. Some of your user preferences have been reset to defaults for safety reasons. Please adjust them where needed.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2364,7 +2364,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/QGCDataPlot2D.ui" line="208"/>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">文件</translation>
     </message>
     <message>
         <location filename="src/ui/QGCDataPlot2D.ui" line="216"/>
@@ -2797,7 +2797,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/QGCHilFlightGearConfiguration.ui" line="84"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">起飞</translation>
     </message>
     <message>
         <location filename="src/ui/QGCHilFlightGearConfiguration.ui" line="91"/>
@@ -2830,7 +2830,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/QGCHilJSBSimConfiguration.ui" line="84"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">起飞</translation>
     </message>
     <message>
         <location filename="src/ui/QGCHilJSBSimConfiguration.ui" line="91"/>
@@ -2928,18 +2928,18 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/QGCHilXPlaneConfiguration.ui" line="127"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">起飞</translation>
     </message>
     <message>
         <location filename="src/ui/QGCHilXPlaneConfiguration.cc" line="20"/>
         <location filename="src/ui/QGCHilXPlaneConfiguration.cc" line="50"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <location filename="src/ui/QGCHilXPlaneConfiguration.cc" line="45"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
 </context>
 <context>
@@ -3016,7 +3016,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/QGCMAVLinkInspector.ui" line="23"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">系统</translation>
     </message>
     <message>
         <location filename="src/ui/QGCMAVLinkInspector.ui" line="36"/>
@@ -3445,12 +3445,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map/QGCMapWidget.cc" line="360"/>
         <source>Please enter coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入坐标</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapWidget.cc" line="361"/>
         <source>Coordinates (Lat,Lon):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">坐标（经，纬度）：</translation>
     </message>
 </context>
 <context>
@@ -4539,7 +4539,7 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/firmwareupdate/QGCPX4FirmwareUpdate.ui" line="53"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/firmwareupdate/QGCPX4FirmwareUpdate.ui" line="70"/>
@@ -4692,7 +4692,7 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCParamWidget.cc" line="91"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/QGCParamWidget.cc" line="92"/>
@@ -6020,17 +6020,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="1460"/>
         <source>Aileron</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">副翼</translation>
     </message>
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="1474"/>
         <source>Rudder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方向舵</translation>
     </message>
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="1488"/>
         <source>Elevator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">升降舵</translation>
     </message>
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="1502"/>
@@ -6151,7 +6151,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="2630"/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">控制</translation>
     </message>
     <message>
         <location filename="src/ui/SlugsDataSensorView.ui" line="2659"/>
@@ -6299,7 +6299,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/RadioCalibration/SwitchCalibrator.cc" line="14"/>
         <source>Pulse Width (us)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">脉冲宽度(us)</translation>
     </message>
     <message>
         <location filename="src/ui/RadioCalibration/SwitchCalibrator.cc" line="20"/>
@@ -6310,7 +6310,7 @@ p, li { white-space: pre-wrap; }
         <location filename="src/ui/RadioCalibration/SwitchCalibrator.cc" line="21"/>
         <location filename="src/ui/RadioCalibration/SwitchCalibrator.cc" line="27"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/RadioCalibration/SwitchCalibrator.cc" line="26"/>
@@ -6530,7 +6530,7 @@ p, li { white-space: pre-wrap; }
         <location filename="src/ui/UASControlParameters.ui" line="153"/>
         <location filename="src/ui/UASControlParameters.ui" line="221"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/UASControlParameters.ui" line="160"/>
@@ -6545,12 +6545,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControlParameters.ui" line="191"/>
         <source>Elevator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">升降舵</translation>
     </message>
     <message>
         <location filename="src/ui/UASControlParameters.ui" line="198"/>
         <source>Rudder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">方向舵</translation>
     </message>
     <message>
         <location filename="src/ui/UASControlParameters.ui" line="205"/>
@@ -7056,7 +7056,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="libs/utils/newclasswidget.ui" line="58"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <location filename="libs/utils/newclasswidget.ui" line="63"/>
@@ -7375,7 +7375,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map3D/ViewParamWidget.cc" line="229"/>
         <source>Trails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">痕迹</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/ViewParamWidget.cc" line="230"/>
@@ -7647,7 +7647,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/WaypointList.ui" line="232"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/WaypointList.ui" line="243"/>
@@ -7989,7 +7989,7 @@ p, li { white-space: pre-wrap; }
         <location filename="src/ui/CommSettings.ui" line="162"/>
         <location filename="src/ui/CommSettings.ui" line="199"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <location filename="src/ui/CommSettings.ui" line="172"/>
@@ -8338,7 +8338,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="399"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="402"/>
