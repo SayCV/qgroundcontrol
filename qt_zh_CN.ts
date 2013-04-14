@@ -1771,7 +1771,7 @@ Abort.&lt;/font&gt;</source>
         <location filename="src/ui/MainWindow.cc" line="506"/>
         <location filename="src/ui/MainWindow.cc" line="580"/>
         <source>Head Up Display</source>
-        <translation type="unfinished">地图指北显示</translation>
+        <translation type="unfinished">显示机头</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="511"/>
@@ -2196,22 +2196,22 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/QGCCore.cc" line="116"/>
         <source>Loading application fonts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载应用程序字体</translation>
     </message>
     <message>
         <location filename="src/QGCCore.cc" line="132"/>
         <source>Starting Communication Links</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始通信连接</translation>
     </message>
     <message>
         <location filename="src/QGCCore.cc" line="136"/>
         <source>Starting UAS Manager</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动无人机系统管理器</translation>
     </message>
     <message>
         <location filename="src/QGCCore.cc" line="140"/>
         <source>Starting User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">启动用户界面</translation>
     </message>
     <message>
         <location filename="src/QGCCore.cc" line="165"/>
@@ -5105,58 +5105,58 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="61"/>
         <source>Currently controlled vehicle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">受控飞行器</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="65"/>
         <source>System timed out, interval since last message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">系统超时，内部等待最后一条消息</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="71"/>
         <source>Vehicle safety state</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行器安全模式</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="76"/>
         <source>Vehicle mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行器模式</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="81"/>
         <source>Vehicle state</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行器姿态</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="90"/>
         <source>Battery charge level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电池充电状态</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="95"/>
         <source>Battery voltage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">电池电压</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="100"/>
         <source>Current waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前航迹点</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="104"/>
         <source>Distance to current waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">距离当前航迹点距离</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="109"/>
         <source>Most recent system message</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最近系统消息</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="112"/>
         <location filename="src/ui/QGCToolBar.cc" line="482"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="113"/>
@@ -5166,7 +5166,7 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="142"/>
         <source>CONNECTION LOST: %1 s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接丢失：%1 秒</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="195"/>
@@ -5217,12 +5217,12 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="326"/>
         <source>SAFE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">安全</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="478"/>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
 </context>
 <context>
