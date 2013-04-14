@@ -69,7 +69,7 @@ QGCCore::QGCCore(int &argc, char* argv[]) : QApplication(argc, argv)
 {
     // Load application translations
 	QTranslator translator;
-	translator.load("qt_zh_CN.qm");
+	translator.load("qgroundcontrol.qm");
 	this->installTranslator(&translator);
 
 	// Set application name
