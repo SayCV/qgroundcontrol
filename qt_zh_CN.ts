@@ -344,12 +344,12 @@
     <message>
         <location filename="src/ui/DebugConsole.ui" line="224"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">发送</translation>
     </message>
     <message>
         <location filename="src/ui/DebugConsole.ui" line="251"/>
         <source>Hold</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自动保持</translation>
     </message>
     <message>
         <location filename="src/ui/DebugConsole.ui" line="261"/>
@@ -1405,12 +1405,12 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="29"/>
         <source>MGMainWindow</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="59"/>
         <source>File</source>
-        <translation type="unfinished">文件</translation>
+        <translation>文件</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="63"/>
@@ -1420,7 +1420,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="80"/>
         <source>Communication</source>
-        <translation type="unfinished">通信</translation>
+        <translation>通信</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="90"/>
@@ -1445,7 +1445,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="126"/>
         <source>Perspectives</source>
-        <translation type="unfinished">透视</translation>
+        <translation type="unfinished">查看</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="141"/>
@@ -1808,7 +1808,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="670"/>
         <source>HIL Config (%1)</source>
-        <translation type="unfinished">配置HIL</translation>
+        <translation type="unfinished">配置HIL (%1)</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="731"/>
@@ -1833,7 +1833,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="855"/>
         <source>/untitled.</source>
-        <translation type="unfinished">未定义标题</translation>
+        <translation type="unfinished">未定义标题.</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="857"/>
@@ -2603,135 +2603,135 @@ p, li { white-space: pre-wrap; }
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="35"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="38"/>
         <source>Go to home location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">回到家的位置</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="41"/>
         <source>Home</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">家</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="48"/>
         <source>Set Home</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置家的位置</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="58"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="61"/>
         <source>Enable waypoint and home location edit mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开航迹点与家的位置编辑模式</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="64"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="74"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="77"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="80"/>
         <source>Show MAV trajectories</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">显示无人机飞行痕迹</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="83"/>
         <source>Trails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">痕迹</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="97"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="100"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="103"/>
         <source>Select the MAV to chase</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="107"/>
         <source>MAV Distance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无人机距离</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="112"/>
         <source>Ground Distance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地面距离</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="120"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="123"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="126"/>
         <source>Distance of the chase camera to the MAV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">追逐相机与无人机的距离</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="145"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="148"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="151"/>
         <source>Chase the MAV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">追逐无人机</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="154"/>
         <source>Follow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">跟随</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="161"/>
         <source>Overhead</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">抬头</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="175"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="178"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="181"/>
         <source>Delete all waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">删除所有航迹点</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="184"/>
         <source>Clear Trails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清楚痕迹</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="191"/>
         <source>Reset</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">复位</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="214"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="217"/>
         <source>Enable the atmosphere visualization. Not recommended for mission execution, only for visualization</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开大气可视化效果。不推荐用于任务执行,仅用于可视化显示</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="220"/>
         <source>Sky</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">天空</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="227"/>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="230"/>
         <source>Enable day/night light. Not recommended for mission execution, only for visualization.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打开白天/黑夜显示模式。不推荐用于任务执行,仅用于可视化显示。</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="233"/>
         <source>Day/Night</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">白天/黑夜</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.ui" line="240"/>
         <source>Lat/Lon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">经/纬度</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.cc" line="372"/>
         <source>Please enter coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请输入坐标</translation>
     </message>
     <message>
         <location filename="src/ui/map3D/QGCGoogleEarthView.cc" line="373"/>
         <source>Coordinates (Lat,Lon):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">坐标（经，纬度）：</translation>
     </message>
 </context>
 <context>
@@ -3327,37 +3327,37 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="26"/>
         <source>Lat/Lon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">经/纬度</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="33"/>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">编辑</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="40"/>
         <source>Go Home</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">返回家的位置</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="47"/>
         <source>Last Pos</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">最后位置</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="54"/>
         <source>Cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">缓存</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="61"/>
         <source>Clear Trails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">清除路径</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="68"/>
         <source>Follow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">跟随</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="75"/>
@@ -3367,7 +3367,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map/QGCMapToolBar.ui" line="95"/>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选项</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="51"/>
@@ -3382,22 +3382,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="55"/>
         <source>No trail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无路径</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="62"/>
         <source>%1 second%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 秒%2</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="74"/>
         <source>%1 meter%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 米%2</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="97"/>
         <source>%1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 秒</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="114"/>
@@ -3422,22 +3422,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="180"/>
         <source>Starting to load tiles..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开始加载拼图..</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="185"/>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">完成</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="192"/>
         <source>1 tile to load..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1拼图加载..</translation>
     </message>
     <message>
         <location filename="src/ui/map/QGCMapToolBar.cc" line="196"/>
         <source>%1 tiles to load..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1拼图加载..</translation>
     </message>
 </context>
 <context>
@@ -5105,52 +5105,52 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="61"/>
         <source>Currently controlled vehicle</source>
-        <translation type="unfinished">受控飞行器</translation>
+        <translation>受控飞行器</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="65"/>
         <source>System timed out, interval since last message</source>
-        <translation type="unfinished">系统超时，内部等待最后一条消息</translation>
+        <translation>系统超时，内部等待最后一条消息</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="71"/>
         <source>Vehicle safety state</source>
-        <translation type="unfinished">飞行器安全模式</translation>
+        <translation>飞行器安全模式</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="76"/>
         <source>Vehicle mode</source>
-        <translation type="unfinished">飞行器模式</translation>
+        <translation>飞行器模式</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="81"/>
         <source>Vehicle state</source>
-        <translation type="unfinished">飞行器姿态</translation>
+        <translation>飞行器姿态</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="90"/>
         <source>Battery charge level</source>
-        <translation type="unfinished">电池充电状态</translation>
+        <translation>电池充电状态</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="95"/>
         <source>Battery voltage</source>
-        <translation type="unfinished">电池电压</translation>
+        <translation>电池电压</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="100"/>
         <source>Current waypoint</source>
-        <translation type="unfinished">当前航迹点</translation>
+        <translation>当前航迹点</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="104"/>
         <source>Distance to current waypoint</source>
-        <translation type="unfinished">距离当前航迹点距离</translation>
+        <translation>距离当前航迹点距离</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="109"/>
         <source>Most recent system message</source>
-        <translation type="unfinished">最近系统消息</translation>
+        <translation>最近系统消息</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="112"/>
@@ -5161,68 +5161,68 @@ where to accept this waypoint as reached</source>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="113"/>
         <source>Connect wireless link to MAV</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="142"/>
         <source>CONNECTION LOST: %1 s</source>
-        <translation type="unfinished">连接丢失：%1 秒</translation>
+        <translation>连接丢失：%1 秒</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="195"/>
         <source>Specify MAVLink log file to save to</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="195"/>
         <source>MAVLink Logfile (*.mavlink *.log *.bin);;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="216"/>
         <source>The selected logfile is not writable</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="217"/>
         <source>Please make sure that the file %1 is writable or select a different file</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="304"/>
         <source>%1 m</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="305"/>
         <source>WP%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="307"/>
         <source>%1 V</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="308"/>
         <location filename="src/ui/QGCToolBar.cc" line="309"/>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="321"/>
         <source>ARMED</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="326"/>
         <source>SAFE</source>
-        <translation type="unfinished">安全</translation>
+        <translation>安全</translation>
     </message>
     <message>
         <location filename="src/ui/QGCToolBar.cc" line="478"/>
         <source>Disconnect</source>
-        <translation type="unfinished">断开连接</translation>
+        <translation>断开连接</translation>
     </message>
 </context>
 <context>
@@ -5401,12 +5401,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/uas/QGCUnconnectedInfoWidget.ui" line="70"/>
         <source>Simulate MAV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仿真无人机</translation>
     </message>
     <message>
         <location filename="src/ui/uas/QGCUnconnectedInfoWidget.ui" line="77"/>
         <source>Connect Link</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">连接无人机</translation>
     </message>
 </context>
 <context>
@@ -6628,7 +6628,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASView.ui" line="373"/>
         <source>MODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">模式</translation>
     </message>
     <message>
         <location filename="src/ui/UASView.ui" line="391"/>
@@ -6657,7 +6657,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASView.ui" line="445"/>
         <source>throttle %p%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">油门 %p%</translation>
     </message>
     <message>
         <location filename="src/ui/UASView.ui" line="460"/>
@@ -6760,7 +6760,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASView.ui" line="834"/>
         <source>Waiting for first status update..</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">等待更新第一个状态</translation>
     </message>
     <message>
         <location filename="src/ui/UASView.ui" line="855"/>
@@ -8099,7 +8099,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="23"/>
         <source>Serial Port</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">串口端口</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="30"/>
@@ -8111,7 +8111,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="54"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">波特率</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="61"/>
@@ -8248,7 +8248,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="205"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">流控制</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="212"/>
@@ -8260,12 +8260,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="221"/>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="228"/>
         <source>Parity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">奇偶校验</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="237"/>
@@ -8283,17 +8283,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="246"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="265"/>
         <source>Odd</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">奇数</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="281"/>
         <source>Even</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">偶数</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="302"/>
@@ -8305,7 +8305,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="324"/>
         <source>Stop bits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止位</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="337"/>
@@ -8317,7 +8317,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/SerialSettings.ui" line="378"/>
         <source>Data bits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">数据位</translation>
     </message>
     <message>
         <location filename="src/ui/SerialSettings.ui" line="385"/>
@@ -8381,7 +8381,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="69"/>
         <source>UNCONNECTED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未连接</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="106"/>
@@ -8392,7 +8392,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="112"/>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">起飞</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="129"/>
@@ -8403,7 +8403,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="135"/>
         <source>Land</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">着陆</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="152"/>
@@ -8414,7 +8414,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="158"/>
         <source>Halt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">停止</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="177"/>
@@ -8431,7 +8431,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="199"/>
         <source>Set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="216"/>
@@ -8442,7 +8442,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="222"/>
         <source>No actions executed so far</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">太远了没法执行指令</translation>
     </message>
     <message>
         <location filename="src/ui/UASControl.ui" line="251"/>
@@ -8453,7 +8453,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="src/ui/UASControl.ui" line="257"/>
         <source>Activate Engine</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">激活工程</translation>
     </message>
 </context>
 <context>
