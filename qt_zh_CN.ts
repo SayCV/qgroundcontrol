@@ -1500,7 +1500,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="227"/>
         <source>Add Link</source>
-        <translation type="unfinished">添加链接</translation>
+        <translation type="unfinished">添加连接</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="236"/>
@@ -1525,7 +1525,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="266"/>
         <source>Simulate one vehicle to test and evaluate this application</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">测试和仿真程序</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="275"/>
@@ -1535,27 +1535,27 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="284"/>
         <source>Joystick Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">手柄设置</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="296"/>
         <source>Online Documentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在线文档</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="305"/>
         <source>Project Roadmap</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">项目规划</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="314"/>
         <source>Developer Credits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">开发者</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="326"/>
         <source>Operator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">操作员</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="329"/>
@@ -1565,7 +1565,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="341"/>
         <source>Engineer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">工程员</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="344"/>
@@ -1590,7 +1590,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="380"/>
         <source>Pilot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行员</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="383"/>
@@ -1600,17 +1600,17 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="392"/>
         <source>New Custom Widget</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新建自定义视图</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="408"/>
         <source>Mute Audio Output</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">静音</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="420"/>
         <source>Unconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">断开连接</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="423"/>
@@ -1620,13 +1620,13 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="432"/>
         <source>Shutdown MAV</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭无人机</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="435"/>
         <location filename="src/ui/MainWindow.ui" line="438"/>
         <source>Shutdown the onboard computer - works not during flight</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">关闭机载计算机</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="443"/>
@@ -1641,12 +1641,12 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="451"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">设置</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="456"/>
         <source>Fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">全屏模式</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="459"/>
@@ -1656,57 +1656,57 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.ui" line="464"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">原始尺寸</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="467"/>
         <source>Esc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">退出</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="476"/>
         <source>Load Custom Widget File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载自定义视图</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="485"/>
         <source>Firmware Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">升级固件</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.ui" line="488"/>
         <source>Update the firmware of one of the connected autopilots</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">升级连接的无人机机载固件</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="379"/>
         <location filename="src/ui/MainWindow.cc" line="382"/>
         <source>Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">控制</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="387"/>
         <location filename="src/ui/MainWindow.cc" line="390"/>
         <source>Unmanned Systems</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无人机系统</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="395"/>
         <location filename="src/ui/MainWindow.cc" line="398"/>
         <source>Mission Plan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">任务计划</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="403"/>
         <location filename="src/ui/MainWindow.cc" line="406"/>
         <source>Status Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">详细状态</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="411"/>
         <location filename="src/ui/MainWindow.cc" line="418"/>
         <source>Communication Console</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">通信终端窗口</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="423"/>
@@ -1732,35 +1732,35 @@ Abort.&lt;/font&gt;</source>
         <location filename="src/ui/MainWindow.cc" line="459"/>
         <location filename="src/ui/MainWindow.cc" line="462"/>
         <source>Onboard Parameters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">机载参数</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="467"/>
         <source>Horizontal Situation Indicator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">水平位置指示</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="470"/>
         <source>Horizontal Situation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">水平位置</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="475"/>
         <location filename="src/ui/MainWindow.cc" line="480"/>
         <source>Flight Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行路径显示</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="485"/>
         <location filename="src/ui/MainWindow.cc" line="490"/>
         <source>Actuator Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">制动器状态</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="495"/>
         <location filename="src/ui/MainWindow.cc" line="498"/>
         <source>Radio Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无线电数据传送装置控制</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="503"/>
@@ -1771,29 +1771,29 @@ Abort.&lt;/font&gt;</source>
         <location filename="src/ui/MainWindow.cc" line="506"/>
         <location filename="src/ui/MainWindow.cc" line="580"/>
         <source>Head Up Display</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">地图指北显示</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="511"/>
         <location filename="src/ui/MainWindow.cc" line="518"/>
         <source>Video Stream 1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">视频流1</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="523"/>
         <location filename="src/ui/MainWindow.cc" line="530"/>
         <source>Video Stream 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">视频流2</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="586"/>
         <source>Vehicle Configuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行器配置</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="592"/>
         <source>Logfile Plot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">飞行日志</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="599"/>
@@ -1803,17 +1803,17 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="607"/>
         <source>Google Earth</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">谷歌地球</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="670"/>
         <source>HIL Config (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">配置HIL</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="731"/>
         <source>Specify Widget File Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">指定自定义视图名称</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="731"/>
@@ -1823,22 +1823,22 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="775"/>
         <source>Did not find any custom widgets in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在%1里找不到自定义视图</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="787"/>
         <source>Loaded custom widget %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">加载自定义视图%1</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="855"/>
         <source>/untitled.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未定义标题</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="857"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">另存为</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="859"/>
@@ -1848,7 +1848,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="917"/>
         <source>Please restart QGroundControl</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">请重新启动地面站</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="917"/>
@@ -1863,7 +1863,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="938"/>
         <source>CSS Stylesheet (*.css);;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CSS样式表(*.css);;</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="944"/>
@@ -1879,7 +1879,7 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="975"/>
         <source>Stylesheet file %1 was not readable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">样式表文件%1不可读</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="1262"/>
@@ -1890,24 +1890,24 @@ Abort.&lt;/font&gt;</source>
     <message>
         <location filename="src/ui/MainWindow.cc" line="1348"/>
         <source>Select %1 for control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">选择控制%1</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="1392"/>
         <source>Realtime Plot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">实际飞行时间</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="1404"/>
         <location filename="src/ui/MainWindow.cc" line="1407"/>
         <source>Object Recognition</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">目标识别</translation>
     </message>
     <message>
         <location filename="src/ui/MainWindow.cc" line="1412"/>
         <location filename="src/ui/MainWindow.cc" line="1415"/>
         <source>Process Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">程序控制</translation>
     </message>
 </context>
 <context>
